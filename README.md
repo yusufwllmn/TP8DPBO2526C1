@@ -44,7 +44,6 @@ Seluruh query memakai PDO dengan Prepared Statement (`prepare()` + `execute()`).
 | `assets/` | File Bootstrap dan `style.css` |
 | `config/` | Koneksi database (PDO) |
 | `controllers/` | Controller yang menghubungkan model dan view |
-| `database/` | File `.sql` |
 | `models/` | Model yang berhubungan langsung dengan database |
 | `views/` | Tampilan halaman dosen, mata kuliah, dan publikasi, serta header dan footer bersama |
 | `index.php` | Pintu masuk aplikasi sekaligus router |
